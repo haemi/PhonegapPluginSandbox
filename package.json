@@ -1,0 +1,17 @@
+{
+  "name": "com-moduscreate-plugins-echoswift",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "com-moduscreate-plugins-echoswift",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
